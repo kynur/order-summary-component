@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-bzjSKLoSDl)
-- Live Site URL: [Add live site URL here](https://kynur.github.io/order-summary-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-bzjSKLoSDl)
+- Live Site URL: [Github Pages](https://kynur.github.io/order-summary-component/)
 
 ## My process
 
